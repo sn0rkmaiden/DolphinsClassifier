@@ -1,0 +1,7 @@
+notebook
+dvc
+pillow
+matplotlib
+scikit-learn
+torchvision
+papermill
